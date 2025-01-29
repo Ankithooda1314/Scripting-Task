@@ -1,0 +1,8 @@
+
+This is a test file.
+The first few lines are just examples.
+Welcome to the scripting challenge.
+Here we will give some examples.
+welcome to the session, we will learning you tips.
+Another line without the keyword.
+welcome everyone, let's learning it a try
